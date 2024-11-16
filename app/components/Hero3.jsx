@@ -82,7 +82,7 @@ export default function HowItWorks() {
     <div className="w-1/2">
     <h2 className="text-2xl font-bold ml-4 ">Select Your Perfect Match</h2>
       <p className="text-gray-600 leading-relaxed text-lg hover:text-gray-800 transition-colors duration-300 rounded-lg p-4">
-        Once you've explored our range of tutors, choose the one that resonates most with you. Their profiles provide detailed information, such as their areas of expertise, availability, and reviews. Scheduling a lesson has never been easier.
+        Once you have explored our range of tutors, choose the one that resonates most with you. Their profiles provide detailed information, such as their areas of expertise, availability, and reviews. Scheduling a lesson has never been easier.
       </p>
       <Button className="bg-orange-500 hover:bg-orange-600 ml-4">Sign up for free</Button>
     </div>
@@ -150,7 +150,7 @@ export default function HowItWorks() {
     </div>
     <h3 className="text-xl font-bold mb-2 hover:text-orange-700 transition-colors duration-300">Money-back guarantee</h3>
     <p className="text-gray-600 mb-4 hover:text-gray-800 transition-colors duration-300">
-      If you're not satisfied with your first lesson, we'll refund your payment. No questions asked.
+      If you are not satisfied with your first lesson, we all refund your payment. No questions asked.
     </p>
   
   </div>

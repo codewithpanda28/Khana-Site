@@ -58,7 +58,7 @@ export default function Hero4() {
                   Grow Your Business Faster.{" "}
                 </span>
                 <span className="text-gray-600">
-                  Utilize our platform's features and resources to accelerate
+                  Utilize our platforms features and resources to accelerate
                   your growth and increase your income.
                 </span>
               </div>
